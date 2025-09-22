@@ -1,1 +1,16 @@
-Primeiro contato em html
+<!DOCTYPE html>
+
+<html>
+
+<head>
+    <title>Uma pagina simples</title>
+</head>
+
+<body>
+    <h1>Bem vindo a minha pagina inicial</h1>
+    <P>Esta é uma pagina de teste</P>
+    <p><i>Teste de texto em formato italico</i></p>
+    <p>modificaçao de conteudo</p>
+</body>
+
+</html>
