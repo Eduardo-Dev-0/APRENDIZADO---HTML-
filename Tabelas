@@ -1,0 +1,24 @@
+<table>
+
+ <tr>
+
+          <th>itens</th>
+          <th>quantidades</th>
+          <th>total</th>
+ </tr>
+
+ <tr>
+
+          <th>registro 01</th>
+          <th>1</th>
+          <th>30</th>
+ </tr>
+
+ <tr>
+
+          <th>registro 02</th>
+          <th>2</th>
+          <th>40</th>
+ </tr>
+
+</table>
